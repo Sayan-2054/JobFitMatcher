@@ -50,7 +50,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/jobfitmatcher.git
+git clone [https://github.com/yourusername/jobfitmatcher.git](https://github.com/Sayan-2054/JobFitMatcher.git)
 cd jobfitmatcher
 pip install -r requirements.txt
 streamlit run app.py
